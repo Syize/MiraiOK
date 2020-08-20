@@ -44,7 +44,7 @@ Arch: ```yaourt -S miraiok-bin``` 或 ```yay mirok-bin```
 |[Linux-arm](http://t.imlxy.net:64724/mirai/MiraiOK/miraiOK_linux_arm)|arm派用品|
 |[Darwin-amd64](http://t.imlxy.net:64724/mirai/MiraiOK/miraiOK_darwin_amd64)|MacOS用品 已测试，感谢fjh1997大佬|
 
-> ***上面的链接已失效，我仅保留了两个文件，Linux-amd64与Linux-arm，请去Download文件夹自行寻找***  
+> ***上面的链接已失效，我仅保留了两个文件，Linux-amd64与Linux-arm64，请去Download文件夹自行寻找***  
 
 
 ### Tips
